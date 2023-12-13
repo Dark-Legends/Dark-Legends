@@ -4,12 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-legends" alt="dark-legends" /></a> </p>
 
-- 🔭 I’m currently working on **Linux-distro-android**
-
-- 👯 I’m looking to collaborate on **Linux-Package-Manager**
-
-- 🤝 I’m looking for help with **Random-Passwords**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
